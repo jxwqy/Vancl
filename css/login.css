@@ -1,0 +1,31 @@
+#header_wrapper{
+	height: 70px;
+	background: #FFFFFF;
+}
+.content{
+	width: 1200px;
+	margin: 0 auto;
+}
+.header{
+	height: 70px;
+	background: #FFFFFF;
+	border-bottom: 1px solid #7a7f89;
+}
+.logo{
+	width: 187px;
+	height: 48px;
+	float: left;
+	text-indent: -9999px;
+	margin: 13px 0 0 0;
+}
+.logo a{
+	display: block;
+	width: 187px;
+	height: 48px;
+	background: url(../images/vancl_login/logo_new.jpg) no-repeat;
+}
+.header span{
+	display: block;
+	float: right;
+	margin: 38px 6px 20px 0;
+}
